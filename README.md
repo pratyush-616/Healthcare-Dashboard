@@ -1,4 +1,4 @@
-# Healthcare-Dashboard
+# Healthcare Dashboard
 
 ### Dashboard Link : https://app.powerbi.com/groups/me/reports/bc63fb9e-5be2-4f82-9d95-64f5244f3bad/5649d582c4b0400c0104?experience=power-bi
 
