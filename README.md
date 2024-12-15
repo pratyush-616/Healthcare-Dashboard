@@ -1,6 +1,6 @@
 # Healthcare Dashboard
 
-### Dashboard Link : https://app.powerbi.com/groups/me/reports/bc63fb9e-5be2-4f82-9d95-64f5244f3bad/5649d582c4b0400c0104?experience=power-bi
+### Dashboard Link : https://app.powerbi.com/view?r=eyJrIjoiMTI3NGQxNjktMGIyYS00ZDAwLWIxZDgtYWMxMTNiZGY2ZjYxIiwidCI6ImJhZDEyODY0LTkxM2UtNGI5OS04N2Q2LWI4ZDJhZDQ1OWUyNyIsImMiOjEwfQ%3D%3D
 
 ## Problem Statement
 
